@@ -23,7 +23,7 @@ The system allows the user to control fan power and speed, set a one-minute time
 
 ## Schematic
 
-![Schematic](schemeESP.png)
+![Schematic](scheme_ESP.png)
 
 ## Hardware Prototype
 
