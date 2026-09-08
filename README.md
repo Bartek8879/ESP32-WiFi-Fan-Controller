@@ -23,17 +23,17 @@ The system allows the user to control fan power and speed, set a one-minute time
 
 ## Schematic
 
-![Schematic](images/scheme ESP.png)
+![Schematic](schemeESP.png)
 
 ## Hardware Prototype
 
-![Hardware Prototype](images/prototype.jpg)
+![Hardware Prototype](prototype.jpg)
 
 ## Web Interface
 
 The interface allows the user to turn the fan ON/OFF, adjust PWM, start the one-minute timer and monitor RPM.
 
-![Web Interface](images/web-interface.png)
+![Web Interface](web-interface.png)
 
 ## How It Works
 
